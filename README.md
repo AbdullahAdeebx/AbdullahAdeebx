@@ -1,3 +1,7 @@
-14 y/o in high school | Building [GroX](https://grox.abdullahadeeb.xyz) | AI/ML | Love to code
+### 14 y/o builder
+📈 [GrowXFa.st](http://GrowXFa.st) – Grow X FAST  
+⚡ [Allin1AI.app](http://allin1ai.app) – AI, all in one  
+🎮 [GroX.AbdullahAdeeb.xyz](http://grox.abdullahadeeb.xyz) – Gamified growth  
+⏳ [TimeShield.AbdullahAdeeb.xyz](http://timeshield.abdullahadeeb.xyz) – Stay focused  
 
-Hey! I'm Abdullah Adeeb, a 14 y/o indie hacker focused on productivity and AI-driven solutions. I’ve built TimeShield to help manage distractions and Encrytply, a file encryption tool. I'm also learning AI/ML and building my personal brand on [X](https://x.com/AbdullahAdeebi).
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahAdeebx)](https://git.io/streak-stats)
