@@ -1,17 +1,17 @@
-# Hey, I am [Abdullah Adeeb](www.abdullahadeeb.xyz), a 14 y/o, who loves building cool shit.
+# Hey, I am [Abdullah Adeeb](www.abdullahadeeb.xyz), 14 y/o who loves building cool shit.
 [Read my full story →](https://www.abdullahadeeb.xyz/about).
 
-### My current Projects:
-
-📈 [GrowXFast](http://GrowXFa.st) – Grow X FAST  
-⚡ [Allin1AI App](http://allin1ai.app) – AI, all in one  
-🎮 [GroX](http://grox.abdullahadeeb.xyz) – Gamified growth  
-⏳ [TimeShield](http://timeshield.abdullahadeeb.xyz) – Stay focused 
+### My Current Projects:
+🤖 [JARVIS](https://www.abdullahadeeb.xyz/project/jarvis) – Your Terminal AI Companion  
+📈 [GrowXFast](https://GrowXFa.st) – Grow X FAST  
+⚡ [Allin1AI](https://allin1ai.app) – AI, all in one  
+🎮 [GroX](https://grox.abdullahadeeb.xyz) – Gamified growth  
+⏳ [TimeShield](https://timeshield.abdullahadeeb.xyz) – Stay focused 
 
 ### Socials
-[X/Twitter](https://x.com/AbdullahAdeebx)
 [YouTube](https://youtube.com/@AbdullahAdeebx)
 [Instagram](https://instagram.com/AbdullahAdeebx)
+[X/Twitter](https://x.com/AbdullahAdeebx)
 [Threads](https://threads.net/@AbdullahAdeebx)
 
 ### GitHub stats
