@@ -12,7 +12,7 @@
 [YouTube](https://youtube.com/@AbdullahAdeebx),
 [Instagram](https://instagram.com/AbdullahAdeebx),
 [X/Twitter](https://x.com/AbdullahAdeebx),
-[Threads](https://threads.net/@AbdullahAdeebx),
+[Threads](https://threads.net/@AbdullahAdeebx)
 
 ### GitHub stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahAdeebx)](https://git.io/streak-stats)
