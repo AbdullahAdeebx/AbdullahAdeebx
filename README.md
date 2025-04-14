@@ -1,4 +1,4 @@
-# Hey, I am [Abdullah Adeeb](www.abdullahadeeb.xyz), 15 y/o who loves building cool shit.
+# Hey, I am [Abdullah Adeeb](https://www.abdullahadeeb.xyz), 15 y/o who loves building cool shit.
 [Read my full story →](https://www.abdullahadeeb.xyz/about).
 
 ### My Current Projects:
