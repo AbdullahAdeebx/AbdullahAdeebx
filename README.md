@@ -2,6 +2,7 @@
 [Read my full story →](https://www.abdullahadeeb.xyz/about).
 
 ### My Current Projects:
+🎤 [whisper](https://www.abdullahadeeb.xyz/project/whisper) – transcribe audio from terminal.  
 🤖 [JARVIS](https://www.abdullahadeeb.xyz/project/jarvis) – Your Terminal AI Companion  
 📈 [GrowXFast](https://GrowXFa.st) – Grow X FAST  
 ⚡ [Allin1AI](https://allin1ai.app) – AI, all in one  
