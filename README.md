@@ -16,4 +16,4 @@
 [Threads](https://threads.net/@AbdullahAdeebx)
 
 ### GitHub stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahAdeebx)](https://git.io/streak-stats)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahAdeebx&theme=transparent" />
